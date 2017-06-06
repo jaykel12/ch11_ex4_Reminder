@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Tue Jun 06 11:33:23 PDT 2017
+2.base=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38c797bb44e2ec51a5fb1f65c1bc20797d129625\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1f6e5ebbd2abb0ab59251a7b74ea31ce5f18c2db
+count=7
+0.file=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+6.base=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38c797bb44e2ec51a5fb1f65c1bc20797d129625
+1.file=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_reminder.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\reminder.xml
+6.set=DEX
+0.base=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1f6e5ebbd2abb0ab59251a7b74ea31ce5f18c2db\\classes.dex
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,7 @@
+#Tue Jun 06 11:33:23 PDT 2017
+base.0=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38c797bb44e2ec51a5fb1f65c1bc20797d129625
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1f6e5ebbd2abb0ab59251a7b74ea31ce5f18c2db\\classes.dex
+base.1=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1f6e5ebbd2abb0ab59251a7b74ea31ce5f18c2db
+file.0=C\:\\Users\\jayke\\Documents\\android\\ch11_ex4_Reminder\\ch11_ex4_Reminder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38c797bb44e2ec51a5fb1f65c1bc20797d129625\\classes.dex
